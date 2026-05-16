@@ -252,7 +252,7 @@ Pipeline CI/CD automatizada com:
 - black
 - flake8
 
-![GitHub Actions](images/github_actions.png)
+![GitHub Actions](imagens/github_actions.png)
 
 ---
 
