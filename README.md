@@ -125,7 +125,7 @@ http://127.0.0.1:5000
 
 # Aplicação em Execução
 
-![Aplicação Rodando](images/app_running.png)
+![Aplicação Rodando](imagens/app_running.png)
 
 ---
 
@@ -305,3 +305,6 @@ Desenvolvimento de Software Multiplataforma - FATEC Registro
 
 Disciplina:
 Qualidade e Testes de Software
+
+Professor:
+Maylon Henrique de Oliveira
